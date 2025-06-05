@@ -21,7 +21,7 @@ const projects = [
     title: "QAI education",
     imgSrc: "project-imgs/qai.jpeg",
     code: "https://www.github.com/deveshshukla01",
-    projectLink: "https://www.qaieducation.in",
+    projectLink: "https://qaieducation.in",
     tech: ["Tailwind","Typescript", "Node", "Express", "prisma"],
     description:
       "A real-time coaching app for students learning AI, designed and built for students who want to learn more about the present tech.",
